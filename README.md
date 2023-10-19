@@ -1,7 +1,7 @@
 **Olá, sou Fabrizio Silveira**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabriziosilveira&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriziosilveira&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriziosilveira&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5)
 
 <div>
      <img heigth=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
