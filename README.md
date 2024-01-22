@@ -9,3 +9,10 @@
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
 </p>
+
+## Tecnologias
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,c,lua,python" />
+  </a>
+</p>
