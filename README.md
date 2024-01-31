@@ -10,9 +10,16 @@
 
 <br>
 
-<h2> Principais Tecnologias </h2>
+<h2> Principais Linguagens & Tecnologias </h2>
 <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,git,c,lua,python" />
+</p>
+
+<br>
+
+<h2> Linguagens & Tecnologias que estou estudando... </h2>
+<p>
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,mysql,nestjs" />
 </p>
 
 <br>
