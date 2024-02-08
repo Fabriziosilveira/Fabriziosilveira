@@ -2,6 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Developer;Sempre+buscando+conhecimento)](https://git.io/typing-svg)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fabriziosilveira&theme=transparent&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabriziosilveira&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
+</a>
+
+<br>
+
 ![Views Conter](https://komarev.com/ghpvc/?username=Fabriziosilveira&color=green&abbreviated=true&style=for-the-badge&color=blue)
 
 <h2> Sobre </h2>
