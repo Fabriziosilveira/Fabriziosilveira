@@ -40,7 +40,7 @@
 [<img align="left" height="120px" width="110px" alt="Universidade Padre Anchieta" src="https://anchieta.br/wp-content/webp-express/webp-images/uploads/2023/05/logo-ancheta-80-anos.png.webp"/>](https://anchieta.br/)
 
 ****Computer Science Student**** \
-[Universidade Padre Anchieta](https://anchieta.br/) • Bachelor • 2022 - Present
+[Universidade Padre Anchieta](https://anchieta.br/) • Bachelor • 2022 - Present\
 Languages & Technologies: `C`,`Java`,`HTML`, `CSS`, `JavaScript`, `Git`
 
 <br>
