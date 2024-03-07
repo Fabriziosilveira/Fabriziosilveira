@@ -37,6 +37,15 @@
 <br>
 <br>
 
+[<img align="left" height="120px" width="110px" alt="Universidade Padre Anchieta" src="https://github.com/Fabriziosilveira/Fabriziosilveira/assets/146368391/2ce46e25-732f-4096-a096-d02db98d8fe4"/>](https://anchieta.br/)
+
+****Missão 42 São Paulo**** \
+[Missão 42 - São Paulo](https://www.42sp.org.br/) • Bootcamp • 2024 - Present\
+Languages & Technologies: 
+
+<br>
+<br>
+
 [<img align="left" height="120px" width="110px" alt="Universidade Padre Anchieta" src="https://anchieta.br/wp-content/webp-express/webp-images/uploads/2023/05/logo-ancheta-80-anos.png.webp"/>](https://anchieta.br/)
 
 ****Computer Science Student**** \
@@ -46,9 +55,11 @@ Languages & Technologies: `C`,`Java`,`HTML`, `CSS`, `JavaScript`, `Git`
 <br>
 <br>
 
+
 <h2> Experiências Profissionais e Projetos </h2>
 <br>
 <br>
+
 
 [<img align="left" height="120px" width="120px" alt="Ivee Digital Tech" src="https://github.com/Fabriziosilveira/Fabriziosilveira/assets/146368391/36f08c4c-5f3c-4025-84b9-65607c10d990"/>](https://ivee.tech/)
 
