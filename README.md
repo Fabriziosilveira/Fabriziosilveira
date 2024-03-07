@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, sou Fabrizio Silveira </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Developer;Sempre+buscando+conhecimento)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer;Always+Seeking+Knowledge)](https://git.io/typing-svg)
 
 <a href="https://github.com/Fabriziosilveira/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Fabriziosilveira&theme=transparent&show_icons=true" />
