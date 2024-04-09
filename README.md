@@ -31,7 +31,7 @@
 
 <h2> Linguagens & Tecnologias que estou estudando... </h2>
 <p>
-    <img src="https://skillicons.dev/icons?i=express,nestjs,mysql,mongodb,jest" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,mongodb" />
 </p>
 
 <br>
