@@ -31,7 +31,7 @@
 
 <h2> Linguagens & Tecnologias que estou estudando... </h2>
 <p>
-    <img src="https://skillicons.dev/icons?i=java,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb" />
 </p>
 
 <br>
