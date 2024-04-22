@@ -2,12 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer;Always+Seeking+Knowledge)](https://git.io/typing-svg)
 
-<a href="https://github.com/Fabriziosilveira/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Fabriziosilveira&theme=transparent&show_icons=true" />
-</a>
-<a href="https://github.com/Fabriziosilveira/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabriziosilveira&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
-</a>
+<div align='center'>
+
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabriziosilveira&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriziosilveira&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
+
+</div>
 
 <br>
 
@@ -78,3 +83,4 @@ Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `Git`, `Python`
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/fabrizio-cagnoni-silveira-323505270)
 [![Twitter](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/SilveiraDev_)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
