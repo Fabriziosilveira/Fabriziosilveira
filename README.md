@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,git,js,ts,nodejs,c,python" />
 	<img width="50" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" alt="Fastify" title="Fastify"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/>
-	<img src="https://skillicons.dev/icons?i=mongodb" />
+	<img src="https://skillicons.dev/icons?i=mongodb,prisma" />
 </div>
 
 <br>
