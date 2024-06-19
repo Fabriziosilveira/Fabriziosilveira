@@ -37,7 +37,7 @@
 
 <h2> Linguagens & Tecnologias que estou estudando... </h2>
 <p>
-    <img src="https://skillicons.dev/icons?i=express,nestjs,go" />
+    <img src="https://skillicons.dev/icons?i=express,nestjs,go,docker,grafana,prometheus" />
 </p>
 
 <br>
