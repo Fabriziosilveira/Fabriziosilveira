@@ -27,7 +27,7 @@
 <h2> Principais Linguagens & Tecnologias </h2>
 
 <div >
-  <img src="https://skillicons.dev/icons?i=html,css,git,js,ts,nodejs,c,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,js,ts,nodejs,express,nestjs" />
 	<img width="50" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" alt="Fastify" title="Fastify"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/>
 	<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma" />
@@ -37,7 +37,7 @@
 
 <h2> Linguagens & Tecnologias que estou estudando... </h2>
 <p>
-    <img src="https://skillicons.dev/icons?i=express,nestjs,jest,githubactions,jenkins,go,docker,kubernetes,kafka" />
+    <img src="https://skillicons.dev/icons?i=java,jest,githubactions,jenkins,go,docker,kubernetes,kafka" />
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/>
 	    <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch" />
 </p>
