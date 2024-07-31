@@ -84,6 +84,5 @@ Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `Git`, `Python`
 <h2> Contato </h2>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/fabrizio-cagnoni-silveira-323505270)
-[![Twitter](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/SilveiraDev_)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
