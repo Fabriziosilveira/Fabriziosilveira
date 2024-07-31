@@ -37,7 +37,7 @@
 
 <h2> Linguagens & Tecnologias que estou estudando... </h2>
 <p>
-    <img src="https://skillicons.dev/icons?i=java,jest,githubactions,jenkins,go,docker,kubernetes,kafka" />
+    <img src="https://skillicons.dev/icons?i=jest,githubactions,jenkins,go,docker,kubernetes,kafka" />
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/>
 	    <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch" />
 </p>
